@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/084d3c8a-c50c-4cd9-b1ae-b3e4075ec50d/resourceGroups/Latihan/providers/Microsoft.Web/sites/latihanazureWEB"
+}
